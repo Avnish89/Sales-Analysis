@@ -19,7 +19,8 @@
  Key Observation: Understanding customer loyalty and high-value customer segments.
 
  3. Payment & Transaction Insights
-    ![product](https://github.com/user-attachments/assets/3dba9ec0-715e-46ff-a52f-ba82ec6b5b2f)
+     ![discount](https://github.com/user-attachments/assets/3e318201-fb43-473d-8a82-b74cce44ca9a)
+   
 
    Most Used Payment Method: The preferred method for transactions.
    Payment Method Distribution: Breakdown of different payment methods used.
@@ -28,7 +29,7 @@
   Key Observation: Determining if a specific payment method or discount strategy drives more sales.
 
    4. Customer Feedback & Ratings
-      ![discount](https://github.com/user-attachments/assets/3e318201-fb43-473d-8a82-b74cce44ca9a)
+      ![product](https://github.com/user-attachments/assets/3dba9ec0-715e-46ff-a52f-ba82ec6b5b2f)
 
      Average Product Rating: Overall rating based on customer feedback.
      Best-Rated Products: Products with the highest customer ratings.
